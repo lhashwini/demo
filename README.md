@@ -1,3 +1,5 @@
 # demo
 The devops practice repo
-added webhook config
+
+updating readme file for better understanding
+
